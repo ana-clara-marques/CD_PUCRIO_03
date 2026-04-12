@@ -60,3 +60,17 @@ O projeto foi desenvolvido seguindo boas práticas de análise de dados:
 
 ## Como Executar
 
+O notebook pode ser executado diretamente no Google Colab.
+
+1. Acesse o notebook pelo GitHub:
+   https://github.com/ana-clara-marques/CD_PUCRIO_03
+
+2. Abra o arquivo `.ipynb`.
+
+3. Clique em **"Open in Colab"** ou copie o link do notebook e abra no Colab manualmente:
+   https://colab.research.google.com/
+
+4. Execute as células em ordem.
+
+Os dados são carregados diretamente a partir dos arquivos CSV disponíveis neste repositório, não sendo necessário realizar download manual.
+
